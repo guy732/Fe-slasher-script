@@ -17,7 +17,7 @@ local OldModel = true ----- Use Old Model or your accessory
 local IsDead = false
 local StateMover = true
 
-local playerss = workspace.non
+local playerss = workspace.Aivan17789
 local maybe = playerss[ToolName].Handle
 local bbv,bullet
 if Bypass == "death" then
